@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "address": "amaravari",
+      "contact": "8888349403",
+      "id": "1"
+    },
+    {
+      "name": "samar",
+      "email": "samar@gmail.com",
+      "address": "amaravari",
+      "contact": "8888349403",
+      "id": "3"
+    },
+    {
+      "name": "sanket",
+      "email": "sanket@gmail.com",
+      "address": "amaravari",
+      "contact": "8888349403",
+      "id": "5"
+    },
+    {
+      "name": "nishad",
+      "email": "nishad@gmail.com",
+      "address": "pune,narhe",
+      "contact": "8888349403",
+      "id": "xHtQo92"
+    },
+    {
+      "name": "nishigandh",
+      "email": "nishigandh123@gmail.com",
+      "address": "pune",
+      "contact": "8877665544",
+      "id": "A7yDZlI"
+    },
+    {
+      "name": "samir",
+      "email": "samir@gamil.com",
+      "address": "pune",
+      "contact": "8877665544",
+      "id": "pO7C_w0"
+    }
+  ]
+}
